@@ -1,3 +1,9 @@
+'''
+Complete soltion of Book 
+"Python For Software Design by Allen B. Downey"
+by Harsh Bhatia ( www.harshbhatia.net )
+Chapter 3
+'''
 def straight():
     print ('-------',end="")
 
